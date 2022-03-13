@@ -11,9 +11,7 @@ int main(void){
  }
  ```
  
- 링크 작성
- 
- [블로그 주소](http://blog.naver.com/98hajin)
+ 링크 작성  :  [블로그 주소](http://blog.naver.com/98hajin)
  
  
  순서 없는 목록
